@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md"
+                "file": "Discrete/Oppgaver/General.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
-    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
-    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Pasted image 20240903170349.png",
+    "Pasted image 20240903170315.png",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
+    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
+    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
     "Discrete/Oppgaver/General.md",
     "Discrete/Oppgaver/Arithmetic/Least.md",
     "Discrete/Oppgaver/Arithmetic/'Least.md",
