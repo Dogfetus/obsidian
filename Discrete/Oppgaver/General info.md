@@ -1,10 +1,8 @@
-# General info:
-
-### gcd and lcm:
+## gcd and lcm:
 Apperently [LCM](Discrete/Oppgaver/Arithmetic/Least%20common%20multiple)(a,b) * [GCD](Discrete/Oppgaver/Arithmetic/Greatest%20common%20divisor)(a,b) = a * b. According to the [Theorem about gcd and lcm](https://uia.instructure.com/courses/16240/files/2639182?module_item_id=627022) (page 47).
 which means we can use the greatest common divisor multiplied with the least common multiple to find the result of the two numbers (a and b) multiplied with one another.
 
-### basic 
+## basic arithmetic ooperations:
 We have a couple defenitions of arithmetic operations: [lecture](https://uia.instructure.com/courses/16240/files/2629763?module_item_id=623801)
 Basic arithmetic proof:
 ![[Pasted image 20240903170315.png]]
@@ -21,7 +19,19 @@ here is another example using the definitions to prove 7 + 2:
 
 we use these definitions to prove other equations and such.
 
+## Different bases:
 We can also calculate what a number will be in different bases, by converting the number first to base 10 if its not already in base 10. Then we do the instructions described in [[Other Bases]].
 
 
-### string arithmetic:
+## String arithmetic:
+As we do arithmetic with normal mathematical equations, we can also do arithmetic with different strings and characters. As described in [[Strings arithmetic]].
+
+
+
+
+
+# Principles:
+
+Then we have different principles to provide proof of different functions: 
+[[Induction]]
+[[Recursion]]
