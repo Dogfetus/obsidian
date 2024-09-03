@@ -48,3 +48,6 @@ thus we know that :
 	\end{align}$$
 
 
+
+tips:
+when working with k + 1 (x + 1 in this case) we are activly trying to find the equation stated in the assumption with just k. And calculating the rest based off of this.
