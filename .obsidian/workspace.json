@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Arithmetic/Least common multiple.md"
+                "file": "Discrete/Oppgaver/Principles/Induction.md"
               }
             }
           },
@@ -158,11 +158,14 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
-    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
-    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Discrete/Oppgaver/Principles/Recursion.md",
     "Discrete/Oppgaver/Principles/Induction.md",
+    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
+    "test.cpp.md",
+    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Untitled",
+    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
     "Discrete/Oppgaver/General.md",
     "Discrete/Oppgaver/Principles",
     "Images/Pasted image 20240903170735.png",
@@ -177,7 +180,6 @@
     "Discrete/Notes/Untitled.md",
     "Discrete/Notes",
     "Discrete/Innleveringer/Assignment 2.md",
-    "Untitled.md",
     "Discrete/Innleveringer",
     "Discrete/Oppgaver",
     "Discrete/Forelesninger",
