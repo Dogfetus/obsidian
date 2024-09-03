@@ -3,7 +3,7 @@ To find the least common multiple, we can use the [gcd](Discrete/Oppgaver/Arithm
 ```c++
 // simplest version:
 // using gcd:
-unsigned int lcm(unsigned a, b) {
+unsigned int lcm(unsigned int a, b) {
 	if (a < 0)
 		a = -a;
 
@@ -17,7 +17,7 @@ unsigned int lcm(unsigned a, b) {
 
 we can also do this by finding all the prime numbers that make up the two different numbers, and multiply all of them together:
 ```c++
-unsigned int lcm(unsigned a, b) { 
+unsigned int lcm(unsigned int a, b) { 
 	std::vector<unsigned int> prime_a = find_prime_numbers(a);
 	std::vector<unsigned int> prime_b = find_prime_numbers(b);
 

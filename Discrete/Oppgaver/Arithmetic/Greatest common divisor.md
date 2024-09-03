@@ -1,7 +1,7 @@
 can be done in two ways:
 standard Euclidean algorithm:
 ```c++
-unsigned int gcd(unsigned a, b) {
+unsigned int gcd(unsigned int a, b) {
 	// swap them
 	if (a > b) {
 		a = a ^ b
@@ -18,7 +18,7 @@ unsigned int gcd(unsigned a, b) {
 }
 
 //recursive version:
-unsigned int gcd_rec(unsigned a, b) {  
+unsigned int gcd_rec(unsigned int a, b) {  
 	if (a>b) 
 		return gcd_rec(b, a);  
 		
@@ -34,7 +34,7 @@ This works by deviding the largest number by the lower number, then doing the sa
 
 Subtraction-based euclidean algorithm:
 ```c++
-unsigned int gcd(unsigned a, b) {
+unsigned int gcd(unsigned int a, b) {
 	// swap them
 	if (a > b){
 		a = a + b 
@@ -51,7 +51,7 @@ unsigned int gcd(unsigned a, b) {
 }
 
 // recursive version:
-unsigned int gcd_rec(unsigned a, b) {  
+unsigned int gcd_rec(unsigned int a, b) {  
 	if (a>b) 
 		return gcd_rec(b, a);  
 		
