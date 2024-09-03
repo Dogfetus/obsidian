@@ -17,8 +17,9 @@ std::string represent(unsigned int n, b) {
 }
 ```
 
-the way this works is by taking an initial value `n` and deviding it by the target base. this will give us a remainder. this remainder will be the first digit (the right most digit). for example:
+the way this works is by taking an initial value `n` and dividing it by the target base. this will give us a remainder. this remainder will be the first digit (the right most digit). for example:
 
+for base 8:
 ```c++
 (base 10): 2022 -> (base 8):
 
@@ -39,6 +40,7 @@ the way this works is by taking an initial value `n` and deviding it by the targ
 (base 10): 2022 -> (base 8): 3746
 ```
 
+for base 13:
 ```c++
 (base 10): 2022 -> (base 13):
 
@@ -51,5 +53,6 @@ the way this works is by taking an initial value `n` and deviding it by the targ
 // 11 % 13 = 11 = B
 11 -> 0
 
+// now we had digits which were higher than 10. Thus we had to convert them to characters
 (base 10): 2022 -> (base 13): BC7
 ```
