@@ -2,11 +2,13 @@ can be done in two ways:
 standard Euclidean algorithm:
 ```c++
 unsigned gcd(unsigned a, b) {
-	if (a > b)
+	// swap them
+	if (a > b) {
 		a = a ^ b
 		b = a ^ b
 		a = a ^ b
-	
+	}
+
 	while (a!=0) {
 		h = b % a;
 		b = a;
@@ -33,6 +35,13 @@ This works by deviding the largest number by the lower number, then doing the sa
 Subtraction-based euclidean algorithm:
 ```c++
 unsigned gcd(unsigned a, b) {
+	// swap them
+	if (a > b){
+		a = a + b 
+		b = a - b
+		a = a - b
+	}
+	
 	while (a!=0) {
 		h = b - a;
 		b = a;
