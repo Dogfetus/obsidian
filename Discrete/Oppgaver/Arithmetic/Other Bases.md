@@ -72,3 +72,16 @@ for base 7:
 // since we reached 0 we stop
 (result): 11
 ```
+
+for base 12:
+```c++
+(base 10): 8 -> (base 12): 8
+
+(step 1):
+// 8 % 12 = 8
+8 -> 0
+
+//since we reached 0 we stop
+(result): 8
+```
+
