@@ -56,3 +56,19 @@ for base 13:
 // now we had digits which were higher than 10. Thus we had to convert them to characters
 (base 10): 2022 -> (base 13): BC7
 ```
+
+for base 7:
+```c++ 
+(base 10): 8 -> (base 7): 11
+
+(step 1):
+// 8 % 7 = 1
+8 -> 1
+
+(step 2):
+// 1 % 7 = 1
+1 -> 0
+
+// since we reached 0 we stop
+(result): 11
+```
