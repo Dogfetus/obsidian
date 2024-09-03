@@ -7,6 +7,18 @@ for example:
 statement: for all numbers greater or equal to 3, the sum of the previous natural numbers is greater or equal to the number itself
 This becomes :
 
-Ɐx ≥ 3 \[ $\sum_{i=0}^{x-1}{i}$ ≥ x\]
+Ɐx ≥ 3 \[ $\sum_{i=1}^{x-1}{i}$ ≥ x\]
 or:
-Ɐx ≥ 3 \[ $\sum_{i=0}^{x}{i}$ ≥ s(x)\]
+Ɐx ≥ 3 \[ $\sum_{i=1}^{x}{i}$ ≥ s(x)\]
+
+
+First we prove the property initially for the starting value (3):
+$$ 1 + 2 = 3 \geq 3 $$
+as we can see this holds true:
+
+
+
+Then we assume for x >2: $$S_{x-1} \geq x$$Which essentially is the same as:
+$$Ɐx \geq 3 \,:\,\,\,\,\sum_{i=1}^{x-1}{i} \geq x $$
+
+Then we prove for x+1:
