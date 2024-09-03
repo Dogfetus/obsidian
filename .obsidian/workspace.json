@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Recursion.md",
+                "file": "Discrete/Oppgaver/General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae392de80dd57f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete/Oppgaver/General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Recursion.md",
+                "file": "Discrete/Oppgaver/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Recursion.md",
+                "file": "Discrete/Oppgaver/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Recursion.md"
+                "file": "Discrete/Oppgaver/General.md"
               }
             }
           },
@@ -156,15 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "724f637d5ee333df",
+  "active": "ae392de80dd57f91",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Principles/Induction.md",
-    "Discrete/Oppgaver/Principles/Recursion.md",
-    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
-    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/General.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
+    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Discrete/Oppgaver/Principles/Induction.md",
+    "Discrete/Oppgaver/Principles/Recursion.md",
+    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
+    "Discrete/Innleveringer/Assignment 2.md",
     "test.cpp.md",
     "Untitled",
     "Discrete/Oppgaver/Principles",
@@ -179,7 +193,6 @@
     "Discrete/Oppgaver/Arithmetic",
     "Discrete/Notes/Untitled.md",
     "Discrete/Notes",
-    "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Innleveringer",
     "Discrete/Oppgaver",
     "Discrete/Forelesninger",
