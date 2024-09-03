@@ -21,4 +21,18 @@ as we can see this holds true:
 Then we assume for x >2: $$S_{x-1} \geq x$$Which essentially is the same as:
 $$Ɐx \geq 3 \,:\,\,\,\,\sum_{i=1}^{x-1}{i} \geq x $$
 
-Then we prove for x+1:
+Then we prove for x+1:$$\begin{align}
+\sum_{i=1}^{(x+1)-1}{i} &= \sum_{i=1}^{x}{i}\\
+\sum_{i=1}^{x}{i} &= \sum_{i=1}^{x-1}{i} + x\\
+\\ 
+\text{We know this from the assu}\textmption that: }\\
+\sum_{i=1}^{x-1}{i} &\geq x\\
+\\
+\text{this means we can write it like this:}\\
+\sum_{i=1}^{x-1}{i} + x &\geq x + x\\
+\\
+\text{this means that we know this has } &\text{to be bigger or equal to the same with 3:}
+\\
+
+\end{align}
+$$
