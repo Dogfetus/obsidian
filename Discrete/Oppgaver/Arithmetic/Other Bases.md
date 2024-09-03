@@ -17,3 +17,39 @@ std::string represent(unsigned int n, b) {
 }
 ```
 
+the way this works is by taking an initial value `n` and deviding it by the target base. this will give us a remainder. this remainder will be the first digit (the right most digit). for example:
+
+```c++
+(base 10): 2022 -> (base 8):
+
+// 2022 % 8 = 6
+2022 -> 252
+
+// 252 % 8 = 4
+252 -> 31
+
+// 31 % 8 = 7
+31 -> 3
+
+// 3 % 8 = 3
+3 -> 0
+// since we reached 0 we stop here
+
+// thus the final result will be these remainders written next to eachother:
+(base 10): 2022 -> (base 8): 3746
+```
+
+```c++
+(base 10): 2022 -> (base 13):
+
+// 2022 % 13 = 7
+2022 -> 155
+
+// 155 % 13 = 12 = C
+155 -> 11
+
+// 11 % 13 = 11 = B
+11 -> 0
+
+(base 10): 2022 -> (base 13): BC7
+```
