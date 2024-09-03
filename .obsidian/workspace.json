@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Untitled.md",
+                "file": "Discrete/Oppgaver/Greatest common divisor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Untitled.md",
+                "file": "Discrete/Oppgaver/Greatest common divisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Untitled.md",
+                "file": "Discrete/Oppgaver/Greatest common divisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Untitled.md"
+                "file": "Discrete/Oppgaver/Greatest common divisor.md"
               }
             }
           },
@@ -158,10 +158,12 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Discrete/Innleveringer/Assignment 2.md",
-    "Discrete/Oppgaver/Untitled.md",
-    "Untitled.md",
+    "Discrete/Notes/Untitled.md",
+    "Discrete/Oppgaver/Greatest common divisor.md",
+    "Discrete/Notes",
     "Untitled",
+    "Discrete/Innleveringer/Assignment 2.md",
+    "Untitled.md",
     "Discrete/Innleveringer",
     "Discrete/Oppgaver",
     "Discrete/Forelesninger",
