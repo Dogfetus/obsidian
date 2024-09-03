@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Greatest common divisor.md",
+                "file": "Discrete/Oppgaver/Other Bases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Greatest common divisor.md",
+                "file": "Discrete/Oppgaver/Other Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Greatest common divisor.md",
+                "file": "Discrete/Oppgaver/Other Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Greatest common divisor.md"
+                "file": "Discrete/Oppgaver/Other Bases.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Discrete/Notes/Untitled.md",
     "Discrete/Oppgaver/Greatest common divisor.md",
+    "Discrete/Oppgaver/Least common multiple.md",
+    "Discrete/Oppgaver/Other Bases.md",
+    "Discrete/Notes/Untitled.md",
     "Discrete/Notes",
     "Untitled",
     "Discrete/Innleveringer/Assignment 2.md",
