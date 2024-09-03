@@ -25,14 +25,26 @@ Then we prove for x+1:$$\begin{align}
 \sum_{i=1}^{(x+1)-1}{i} &= \sum_{i=1}^{x}{i}\\
 \sum_{i=1}^{x}{i} &= \sum_{i=1}^{x-1}{i} + x\\
 \\ 
-\text{We know this from the assu}\textmption that: }\\
+\text{We know this from the assumption}&\text{ that: }\\
 \sum_{i=1}^{x-1}{i} &\geq x\\
 \\
 \text{this means we can write it like this:}\\
 \sum_{i=1}^{x-1}{i} + x &\geq x + x\\
 \\
-\text{this means that we know this has } &\text{to be bigger or equal to the same with 3:}
+\text{this means that we know this has t} &\text{o be bigger or equal to the same with 3:}
 \\
-
+x + x &\geq x + 3\\
+\\
+\text{which again have to be bigger than} &\text{ a 1:}\\
+x + 3 &\geq x + 1
 \end{align}
 $$
+thus we know that :
+	$$\begin{align}
+	\sum_{i=1}^{x}{i} &\geq x + 1\\
+	&\textbf{Or:}\\
+	\\
+	S_{x+1} &\geq x + 1
+	\end{align}$$
+
+
