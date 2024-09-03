@@ -128,13 +128,21 @@
                 "file": "Discrete/Innleveringer/Assignment 2.md"
               }
             }
+          },
+          {
+            "id": "57c137cba3924263",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,10 +152,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dae13d634de4f223",
+  "active": "724f637d5ee333df",
   "lastOpenFiles": [
     "Untitled.md",
     "Discrete/Innleveringer/Assignment 2.md",
