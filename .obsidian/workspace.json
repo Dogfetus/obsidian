@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Forelesninger/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Forelesninger/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Forelesninger/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md"
+                "file": "Discrete/Forelesninger/Grammar.md"
               }
             }
           },
@@ -165,14 +165,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "ae392de80dd57f91",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Principles/Recursion.md",
+    "Discrete/Forelesninger/lanugages and strings.md",
+    "Discrete/Forelesninger/Grammar.md",
     "Discrete/Oppgaver/Principles/Induction.md",
+    "Discrete/Forelesninger",
+    "Untitled",
+    "Discrete/Oppgaver/Principles/Recursion.md",
     "Discrete/Oppgaver/General info.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
@@ -180,7 +183,6 @@
     "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Innleveringer/Assignment 2.md",
     "test.cpp.md",
-    "Untitled",
     "Discrete/Oppgaver/Principles",
     "Images/Pasted image 20240903170735.png",
     "Images/Pasted image 20240903170315.png",
