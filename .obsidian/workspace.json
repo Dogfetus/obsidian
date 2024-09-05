@@ -155,12 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12d95483e04120eb",
+  "active": "dae13d634de4f223",
   "lastOpenFiles": [
+    "Machine vision/Images",
+    "Machine vision/Images/Pasted image 20240905112620.png",
     "Machine vision/Lectures",
     "Discrete/Oppgaver/General info.md",
     "Machine vision/Lectures/first relevant lecture.md",
-    "Untitled",
     "Machine vision",
     "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
@@ -186,7 +187,6 @@
     "Discrete/Notes/Untitled.md",
     "Discrete/Notes",
     "Discrete/Innleveringer",
-    "Discrete/Oppgaver",
-    "Discrete/Forelesninger"
+    "Discrete/Oppgaver"
   ]
 }
