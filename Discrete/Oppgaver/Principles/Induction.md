@@ -12,16 +12,16 @@ or:
 Ɐx ≥ 3 \[ $\sum_{i=1}^{x}{i}$ ≥ s(x)\]
 
 
-First we prove the property initially for the starting value (3):
+1. **First we prove the property initially for the starting value (3):**
 $$ 1 + 2 = 3 \geq 3 $$
 as we can see this holds true:
 
 
 
-Then we assume for x >2: $$S_{x-1} \geq x$$Which essentially is the same as:
+2. **Then we assume for x >2:** $$S_{x-1} \geq x$$Which essentially is the same as:
 $$Ɐx \geq 3 \,:\,\,\,\,\sum_{i=1}^{x-1}{i} \geq x $$
 
-Then we prove for x+1:$$\begin{align}
+3. **Then we prove for x+1:**$$\begin{align}
 \sum_{i=1}^{(x+1)-1}{i} &= \sum_{i=1}^{x}{i}\\
 \sum_{i=1}^{x}{i} &= \sum_{i=1}^{x-1}{i} + x\\
 \\ 

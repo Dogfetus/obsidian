@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine vision/Lectures/first relevant lecture.md",
+                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine vision/Lectures/first relevant lecture.md",
+                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine vision/Lectures/first relevant lecture.md",
+                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine vision/Lectures/first relevant lecture.md"
+                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md"
               }
             }
           },
@@ -155,38 +155,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dae13d634de4f223",
+  "active": "12d95483e04120eb",
   "lastOpenFiles": [
+    "Discrete/Oppgaver/Principles/Induction.md",
+    "Discrete/Oppgaver/Grammar and language/Grammar.md",
+    "Discrete/Oppgaver/Grammar and language",
+    "Machine vision/Lectures/first relevant lecture.md",
+    "Machine vision/Lectures/first relevant lecture.mdt0v85M.bck",
+    "Machine vision/Lectures/first relevant lecture.mdunB3P0.bck",
+    "Machine vision/Lectures/first relevant lecture.mdrYO13K.bck",
+    "Machine vision/Lectures/first relevant lecture.md2NIxL6.bck",
+    "Machine vision/Lectures/first relevant lecture.mdt1P4Q4.bck",
     "Machine vision/Images",
     "Machine vision/Images/Pasted image 20240905112620.png",
     "Machine vision/Lectures",
     "Discrete/Oppgaver/General info.md",
-    "Machine vision/Lectures/first relevant lecture.md",
     "Machine vision",
     "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
     "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
-    "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Oppgaver/Principles/Recursion.md",
     "Discrete/Forelesninger/Grammar.md",
     "Discrete/Forelesninger/lanugages and strings.md",
     "Discrete/Forelesninger",
     "test.cpp.md",
-    "Discrete/Oppgaver/Principles",
     "Discrete/Images/Pasted image 20240903170735.png",
     "Discrete/Images/Pasted image 20240903170315.png",
-    "Discrete/Images",
     "Discrete/Images/Pasted image 20240903170349.png",
     "Discrete/Oppgaver/Arithmetic/Least.md",
     "Discrete/Oppgaver/Arithmetic/'Least.md",
     "Greatest.md",
     "[[Greatest.md",
-    "Discrete/Oppgaver/Arithmetic",
-    "Discrete/Notes/Untitled.md",
-    "Discrete/Notes",
-    "Discrete/Innleveringer",
-    "Discrete/Oppgaver"
+    "Discrete/Notes/Untitled.md"
   ]
 }
