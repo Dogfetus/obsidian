@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12d95483e04120eb",
+            "id": "724f637d5ee333df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
+                "file": "Discrete/Oppgaver/General info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae392de80dd57f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md"
+                "file": "Discrete/Innleveringer/Assignment 3.md"
               }
             }
           },
@@ -155,39 +168,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12d95483e04120eb",
+  "active": "ae392de80dd57f91",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
-    "Discrete/Oppgaver/Grammar and language",
+    "Discrete/Innleveringer/Assignment 3.md",
+    "Discrete/Oppgaver/Principles/Induction.md",
     "Machine vision/Lectures/first relevant lecture.md",
-    "Machine vision/Lectures/first relevant lecture.mdt0v85M.bck",
-    "Machine vision/Lectures/first relevant lecture.mdunB3P0.bck",
-    "Machine vision/Lectures/first relevant lecture.mdrYO13K.bck",
-    "Machine vision/Lectures/first relevant lecture.md2NIxL6.bck",
-    "Machine vision/Lectures/first relevant lecture.mdt1P4Q4.bck",
-    "Machine vision/Images",
     "Machine vision/Images/Pasted image 20240905112620.png",
     "Machine vision/Lectures",
-    "Discrete/Oppgaver/General info.md",
+    "Machine vision/Images",
     "Machine vision",
-    "Discrete/Innleveringer/Assignment 2.md",
+    "Discrete/Oppgaver/Grammar and language",
+    "Discrete/Images/Pasted image 20240903170735.png",
+    "Discrete/Images/Pasted image 20240903170349.png",
+    "Discrete/Images/Pasted image 20240903170315.png",
+    "Discrete/Images",
+    "Discrete/Forelesninger/lanugages and strings.md",
+    "Discrete/Forelesninger/Grammar.md",
+    "Discrete/Oppgaver/Principles/Recursion.md",
+    "Discrete/Oppgaver/General info.md",
+    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
+    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
     "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
-    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
-    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
-    "Discrete/Oppgaver/Principles/Recursion.md",
-    "Discrete/Forelesninger/Grammar.md",
-    "Discrete/Forelesninger/lanugages and strings.md",
-    "Discrete/Forelesninger",
+    "Discrete/Innleveringer/Assignment 2.md",
     "test.cpp.md",
-    "Discrete/Images/Pasted image 20240903170735.png",
-    "Discrete/Images/Pasted image 20240903170315.png",
-    "Discrete/Images/Pasted image 20240903170349.png",
+    "Untitled",
+    "Discrete/Oppgaver/Principles",
+    "Images/Pasted image 20240903170735.png",
+    "Images/Pasted image 20240903170315.png",
+    "Images",
+    "Images/Pasted image 20240903170349.png",
     "Discrete/Oppgaver/Arithmetic/Least.md",
     "Discrete/Oppgaver/Arithmetic/'Least.md",
     "Greatest.md",
     "[[Greatest.md",
-    "Discrete/Notes/Untitled.md"
+    "Discrete/Oppgaver/Arithmetic",
+    "Discrete/Notes/Untitled.md",
+    "Discrete/Notes"
   ]
 }
