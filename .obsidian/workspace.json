@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae392de80dd57f91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "Discrete/Oppgaver/General info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "Discrete/Oppgaver/General info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md"
+                "file": "Discrete/Oppgaver/General info.md"
               }
             }
           },
@@ -168,40 +155,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae392de80dd57f91",
+  "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Pasted image 20240910153224.png",
+    "Discrete/Images/Pasted image 20240911002905.png",
+    "Discrete/Oppgaver/General info.md",
+    "Discrete/Images/Pasted image 20240911002829.png",
+    "Discrete/Images/Pasted image 20240911002810.png",
+    "Discrete/Images/Pasted image 20240911002741.png",
+    "Discrete/Images/Pasted image 20240911002705.png",
+    "Discrete/Oppgaver/Arithmetic/Untitled.md",
+    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
     "Discrete/Innleveringer/Assignment 3.md",
-    "Discrete/Oppgaver/General info.md",
+    "Discrete/Innleveringer/Assignment 2.md",
+    "Discrete/Innleveringer/Assignment 1.md",
+    "Discrete/Images/Pasted image 20240910154652.png",
+    "Discrete/Images/Pasted image 20240910153224.png",
     "Discrete/Oppgaver/Principles/Recursion.md",
     "Discrete/Oppgaver/Principles/Induction.md",
-    "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
-    "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Images/Pasted image 20240910140908.png",
     "Discrete/Images/Pasted image 20240910141042.png",
     "Discrete/Images/Pasted image 20240910140929.png",
-    "Discrete/Images/Pasted image 20240910014102.png",
     "Machine vision/Lectures/first relevant lecture.md",
-    "Machine vision/Images/Pasted image 20240905112620.png",
     "Machine vision/Lectures",
     "Machine vision/Images",
     "Machine vision",
     "Discrete/Oppgaver/Grammar and language",
-    "Discrete/Images/Pasted image 20240903170735.png",
-    "Discrete/Images/Pasted image 20240903170349.png",
-    "Discrete/Images/Pasted image 20240903170315.png",
     "Discrete/Images",
     "Discrete/Forelesninger/lanugages and strings.md",
     "Discrete/Forelesninger/Grammar.md",
     "test.cpp.md",
     "Untitled",
     "Discrete/Oppgaver/Principles",
-    "Images/Pasted image 20240903170735.png",
-    "Images/Pasted image 20240903170315.png",
     "Images",
     "Discrete/Oppgaver/Arithmetic/Least.md",
     "Discrete/Oppgaver/Arithmetic/'Least.md",

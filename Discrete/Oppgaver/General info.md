@@ -35,3 +35,13 @@ As we do arithmetic with normal mathematical equations, we can also do arithmeti
 Then we have different principles to provide proof of different functions: 
 [[Induction]]
 [[Recursion]]
+
+
+
+
+# Sets and subsets:
+
+![[Pasted image 20240911002705.png]]
+![[Pasted image 20240911002741.png]]
+![[Pasted image 20240911002810.png]]
+![[Pasted image 20240911002829.png]]![[Pasted image 20240911002905.png]]

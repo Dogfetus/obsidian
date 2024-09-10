@@ -164,6 +164,12 @@ now finally we turn this into numbers and we get:
  f + (f \* ( f ^ f ) ) + (f ^ f) \* f 
  ----> 
  $1 + 2 * 3^4 + 5^6 * 7$
+All in all, it should look something like this:
+x -> x + t
+-> x + t + t \* f
+-> t + t \* f + f \* f
+->f + f \* f^f + f^f \* f
+->1 + 2 \* 3^4 + 5^6 \* 7
 
 
 
@@ -201,3 +207,27 @@ department -> Department of ICT | Department of engineering sciences
 office -> A3-082 | A3-067 | C5-085
 email ->firstname.lastname@uia.no
 phonenumber -> +47 ( 37 23 32 20 | 37 23 34 24 | 984 47 348 | 37 23 37 46 | 469 66 063 )
+
+
+
+
+Extra tasks:
+
+![[Pasted image 20240910154652.png]]
+
+We write 4-tuple grammar like this:
+G = 
+(
+	{ terminals sepparated by comma},
+	{ nonterminals separated by comma},
+	starting point,
+	{
+		(rule 1 separated by comma), 
+		{rule 2 separated by comma},
+		..., 
+		{rule n separated by comma}
+	}
+)
+
+Thus we get the following for this 
+G = 
