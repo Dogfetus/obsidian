@@ -104,3 +104,24 @@ constant -> digit {digit}
 # {digit} itself means "" (noting) or 1, or 12 or 134 etc.
 # Therefore we cant write: constant -> digit | {digit}, as this would give us an option to not write a digit at all: "", which is not allowed by the origian grammar.
 ```
+
+
+
+
+EBNF grammar rules:
+Alternatives:  
+• We write s-> A|B for s->A and s->B
+
+Kleene closure:  
+• We write s->{A} for s->As and s->$\epsilon$
+
+Positive closure:  
+• We write s->{A}+ for s->As and s->A.
+
+Optional parts:  
+• We write s->\[A\] for s->A and s->$\epsilon$
+
+like this:
+![[Pasted image 20240910014102.png]]
+
+
