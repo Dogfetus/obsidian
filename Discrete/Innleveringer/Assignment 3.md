@@ -175,7 +175,7 @@ x -> x + t
 
 Task 5:
 find a textual language that does not have any grammar:
-easy answer: no such language exists. HOWEVER, is such a language exists, there would potentially exist an infinite amount of languages which had no grammar. But none of these languages would be able to be defined, since they lack the grammar to define such languages. Thus we cannot describe such a language that lacks grammar.
+easy answer: no such language exists. HOWEVER, if such a language exists, there would potentially exist an infinite amount of languages which had no grammar. But none of these languages would be able to be defined, since they lack the grammar to define such languages. Thus we cannot describe such a language that lacks grammar.
 
 
 task 6:
