@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Grammar and language/Grammar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb5272c330ba666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Discrete/Innleveringer/Assignment 3.md"
               }
             }
           },
@@ -168,29 +155,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfb5272c330ba666",
+  "active": "12d95483e04120eb",
   "lastOpenFiles": [
+    "Discrete/Innleveringer/Assignment 2.md",
+    "Discrete/Oppgaver/General info.md",
+    "Discrete/Oppgaver/Principles/Recursion.md",
+    "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
-    "conflict-files-obsidian-git.md",
+    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
+    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
+    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Innleveringer/Assignment 3.md",
     "Discrete/Innleveringer/Assignment 1.md",
+    "Discrete/Images/Pasted image 20240911130153.png",
+    "Discrete/Images/Pasted image 20240911132844.png",
+    "Discrete/Images/Pasted image 20240911132832.png",
+    "Discrete/Images/Pasted image 20240911132814.png",
+    "Discrete/Images/Pasted image 20240911132504.png",
+    "Discrete/Images/Pasted image 20240911132251.png",
+    "Discrete/Forelesninger/lanugages and strings.md",
+    "conflict-files-obsidian-git.md",
     "Discrete/Images/Pasted image 20240911002905.png",
     "Discrete/Images/Pasted image 20240911002829.png",
     "Discrete/Images/Pasted image 20240911002810.png",
     "Discrete/Images/Pasted image 20240911002741.png",
-    "Discrete/Images/Pasted image 20240911002705.png",
-    "Discrete/Images/Pasted image 20240910154652.png",
-    "Discrete/Images/Pasted image 20240910153224.png",
-    "Discrete/Images/Pasted image 20240910141042.png",
-    "Discrete/Images/Pasted image 20240910140929.png",
-    "Discrete/Images/Pasted image 20240910140908.png",
-    "Discrete/Oppgaver/General info.md",
-    "Discrete/Oppgaver/Arithmetic/Other Bases.md",
-    "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
-    "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
-    "Discrete/Oppgaver/Principles/Recursion.md",
-    "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Oppgaver/Grammar and language",
     "Machine vision/Lectures/first relevant lecture.md",
     "Machine vision/Lectures/first relevant lecture.mdt0v85M.bck",
@@ -201,9 +190,7 @@
     "Machine vision/Images",
     "Machine vision/Lectures",
     "Machine vision",
-    "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Forelesninger/Grammar.md",
-    "Discrete/Forelesninger/lanugages and strings.md",
     "Discrete/Forelesninger",
     "test.cpp.md",
     "Discrete/Oppgaver/Arithmetic/Least.md",
