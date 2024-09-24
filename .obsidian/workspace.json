@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "Machine vision/Project/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "Machine vision/Project/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "Machine vision/Project/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md"
+                "file": "Machine vision/Project/Ideas.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   "active": "a253d8704b7ac87b",
   "lastOpenFiles": [
     "Discrete/Innleveringer/Assignment 3.md",
+    "Machine vision/Project/Ideas.md",
+    "Machine vision/Project",
     "Discrete/Images/Pasted image 20240910140908.png",
     "Discrete/Images/feh_095145_000001_Pasted image 20240910140908.png",
     "Discrete/Images/Pasted image 20240910014102.png",
@@ -191,7 +193,6 @@
     "Machine vision/Lectures",
     "Machine vision",
     "Discrete/Forelesninger/Grammar.md",
-    "Discrete/Forelesninger",
     "test.cpp.md",
     "Discrete/Oppgaver/Arithmetic/Least.md",
     "Discrete/Oppgaver/Arithmetic/'Least.md",
