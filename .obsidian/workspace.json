@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/General info.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/General info.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/General info.md",
+                "file": "Discrete/Innleveringer/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/General info.md"
+                "file": "Discrete/Innleveringer/Assignment 3.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
-    "Discrete/Images/Pasted image 20240911002905.png",
     "Discrete/Oppgaver/General info.md",
+    "Discrete/Images/Pasted image 20240911002905.png",
     "Discrete/Images/Pasted image 20240911002829.png",
     "Discrete/Images/Pasted image 20240911002810.png",
     "Discrete/Images/Pasted image 20240911002741.png",
