@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc5ecf7d2a9b6e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Innleveringer/Assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Discrete/Innleveringer/Assignment 4.md"
               }
             }
           },
@@ -168,8 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc5ecf7d2a9b6e4b",
+  "active": "724f637d5ee333df",
   "lastOpenFiles": [
+    "Discrete/Images/Pasted image 20240924234512.png",
+    "Discrete/Oppgaver/DFA, NFA, regex/what.md",
+    "Discrete/Innleveringer/Assignment 4.md",
+    "Discrete/Oppgaver/DFA, NFA, regex",
     "Discrete/Innleveringer/Assignment 3.md",
     "conflict-files-obsidian-git.md",
     "Machine vision/Project/Ideas.md",
@@ -211,7 +202,6 @@
     "Discrete/Oppgaver/Arithmetic/'Least.md",
     "Greatest.md",
     "[[Greatest.md",
-    "Discrete/Oppgaver/Arithmetic",
     "Discrete/Notes/Untitled.md"
   ]
 }
