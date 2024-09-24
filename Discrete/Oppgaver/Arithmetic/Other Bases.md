@@ -1,4 +1,4 @@
-we can also calculate numbers in different bases:
+``we can also calculate numbers in different bases:
 ```c++
 std::string represent(unsigned int n, b) {
 	// just return 0 if that is entered

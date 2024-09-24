@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc5ecf7d2a9b6e4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 3.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,30 +168,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "724f637d5ee333df",
+  "active": "fc5ecf7d2a9b6e4b",
   "lastOpenFiles": [
+    "Discrete/Innleveringer/Assignment 3.md",
+    "conflict-files-obsidian-git.md",
+    "Machine vision/Project/Ideas.md",
+    "Machine vision/Project",
+    "Discrete/Images/feh_095145_000001_Pasted image 20240910140908.png",
+    "Discrete/Images/Pasted image 20240911132844.png",
+    "Discrete/Images/Pasted image 20240911132832.png",
+    "Discrete/Images/Pasted image 20240911132814.png",
+    "Discrete/Images/Pasted image 20240911132504.png",
+    "Discrete/Images/Pasted image 20240911132251.png",
+    "Discrete/Images/Pasted image 20240911130153.png",
     "Discrete/Oppgaver/General info.md",
     "Discrete/Images/Pasted image 20240911002905.png",
     "Discrete/Images/Pasted image 20240911002829.png",
     "Discrete/Images/Pasted image 20240911002810.png",
-    "Discrete/Images/Pasted image 20240911002741.png",
-    "Discrete/Images/Pasted image 20240911002705.png",
     "Discrete/Oppgaver/Arithmetic/Untitled.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
-    "Discrete/Innleveringer/Assignment 3.md",
     "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Innleveringer/Assignment 1.md",
-    "Discrete/Images/Pasted image 20240910154652.png",
-    "Discrete/Images/Pasted image 20240910153224.png",
     "Discrete/Oppgaver/Principles/Recursion.md",
     "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Oppgaver/Arithmetic/Least common multiple.md",
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
-    "Discrete/Images/Pasted image 20240910140908.png",
-    "Discrete/Images/Pasted image 20240910141042.png",
-    "Discrete/Images/Pasted image 20240910140929.png",
     "Machine vision/Lectures/first relevant lecture.md",
     "Machine vision/Lectures",
     "Machine vision/Images",
@@ -196,7 +212,6 @@
     "Greatest.md",
     "[[Greatest.md",
     "Discrete/Oppgaver/Arithmetic",
-    "Discrete/Notes/Untitled.md",
-    "Discrete/Notes"
+    "Discrete/Notes/Untitled.md"
   ]
 }

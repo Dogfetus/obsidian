@@ -45,3 +45,33 @@ Then we have different principles to provide proof of different functions:
 ![[Pasted image 20240911002741.png]]
 ![[Pasted image 20240911002810.png]]
 ![[Pasted image 20240911002829.png]]![[Pasted image 20240911002905.png]]
+
+
+
+![[Pasted image 20240911130153.png]]
+
+
+U -> gcd
+n -> lcm
+
+
+
+![[Pasted image 20240911132251.png]]
+
+this is correct since {{6}} $\subset$ S looks for the element {6} , which is not present and so on.
+and {6} $\subset$ S looks for 6 in S. So correct.
+
+![[Pasted image 20240911132504.png]]
+
+ambiguity
+![[Pasted image 20240911132814.png]]
+![[Pasted image 20240911132832.png]]
+![[Pasted image 20240911132844.png]]
+
+
+
+
+
+
+
+rocketreach
