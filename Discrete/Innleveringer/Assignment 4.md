@@ -8,6 +8,8 @@ For all the tasks:
 	We want to find the regular expressions to define tokens:
 	**Strings:**
 		For the string constants we are aiming to find all strings and characters which are not 
+		wtf:
+		`"([^"\\]|\\.)*"|'([^'\\]|\\.)*'`
 	**Booleans:**
 		For the booleans they can only be of two values, either true or false. Also we want to compare them as a whole word / byte instead of each character as one by themselves. Thats why we also add \\b (word boundary) at the front and back. Then we get the regex for booleans: $\b(true|false)\b$
 	**Hexadecimals**:

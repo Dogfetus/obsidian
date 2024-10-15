@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 4.md",
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/what.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 4.md",
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/what.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 4.md",
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/what.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Innleveringer/Assignment 4.md"
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/what.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "724f637d5ee333df",
+  "active": "dae13d634de4f223",
   "lastOpenFiles": [
+    "Discrete/Oppgaver/DFA, NFA, regex/Untitled",
+    "Discrete/Innleveringer/Assignment 4.md",
     "Discrete/Images/Pasted image 20240924234512.png",
     "Discrete/Oppgaver/DFA, NFA, regex/what.md",
-    "Discrete/Innleveringer/Assignment 4.md",
     "Discrete/Oppgaver/DFA, NFA, regex",
     "Discrete/Innleveringer/Assignment 3.md",
     "conflict-files-obsidian-git.md",
@@ -175,7 +176,6 @@
     "Discrete/Oppgaver/General info.md",
     "Discrete/Images/Pasted image 20240911002905.png",
     "Discrete/Images/Pasted image 20240911002829.png",
-    "Discrete/Images/Pasted image 20240911002810.png",
     "Discrete/Oppgaver/Arithmetic/Untitled.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
