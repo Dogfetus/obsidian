@@ -94,6 +94,17 @@ Final result would look like this:
 
 
 # Lecture 6:
+### Task:
+![[Pasted image 20241015235934.png]]
+### answer:
+Pretty simple
+1. fill in the spots with 1 specified by (row, column)
+2. fill inn 1s such that the matrix becomes reflexive, symmetric and transitive (this defines an equivalence relation):
+3. fill in 0s
+
+
+
+
 ### task:
 ![[Pasted image 20241015221722.png]]
 ### answer: 
