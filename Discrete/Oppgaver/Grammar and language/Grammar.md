@@ -1,5 +1,5 @@
 **EBNF:**
-stands for extended backus-naur form
+stands for extended Backus-Naur form
 
 A grammar is a structure on the form (T, NT, S, R)
 where T is an arbitrary set of terminal symbols,

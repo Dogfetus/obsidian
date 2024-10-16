@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c3889adbb89f794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine vision/Project/Ideas.md",
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine vision/Project/Ideas.md",
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine vision/Project/Ideas.md"
+                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md"
               }
             }
           },
@@ -155,19 +168,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dae13d634de4f223",
+  "active": "6c3889adbb89f794",
   "lastOpenFiles": [
-    "Discrete/Innleveringer/Assignment 3.md",
+    "conflict-files-obsidian-git.md",
     "Machine vision/Project/Ideas.md",
+    "Discrete/Oppgaver/DFA, NFA, regex/what.md",
+    "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
+    "Discrete/Oppgaver/DFA, NFA, regex",
+    "Discrete/Innleveringer/Assignment 4.md",
+    "Discrete/Images/Pasted image 20241015235934.png",
+    "Discrete/Images/Pasted image 20241015235020.png",
+    "Discrete/Images/Pasted image 20241015234527.png",
+    "Discrete/Images/Pasted image 20241015234319.png",
+    "Discrete/Images/Pasted image 20241015225902.png",
+    "Discrete/Images/Pasted image 20241015225028.png",
+    "Discrete/Images/Pasted image 20241015224032.png",
+    "Discrete/Images/Pasted image 20241015223715.png",
+    "Discrete/Images/Pasted image 20241015223519.png",
+    "Discrete/Images/Pasted image 20241015223504.png",
+    "Discrete/Innleveringer/Assignment 3.md",
     "Machine vision/Project",
-    "Discrete/Images/Pasted image 20240910140908.png",
-    "Discrete/Images/feh_095145_000001_Pasted image 20240910140908.png",
-    "Discrete/Images/Pasted image 20240910014102.png",
-    "Discrete/Images/Pasted image 20240903170735.png",
-    "Discrete/Images/Pasted image 20240910140929.png",
-    "Discrete/Images/Pasted image 20240910141042.png",
-    "Discrete/Images/Pasted image 20240910153224.png",
-    "Discrete/Images/Pasted image 20240910154652.png",
     "Discrete/Innleveringer/Assignment 2.md",
     "Discrete/Oppgaver/General info.md",
     "Discrete/Oppgaver/Principles/Recursion.md",
@@ -177,10 +197,7 @@
     "Discrete/Oppgaver/Arithmetic/Greatest common divisor.md",
     "Discrete/Oppgaver/Arithmetic/Other Bases.md",
     "Discrete/Innleveringer/Assignment 1.md",
-    "Discrete/Images/Pasted image 20240911130153.png",
-    "Discrete/Images/Pasted image 20240911132844.png",
     "Discrete/Forelesninger/lanugages and strings.md",
-    "conflict-files-obsidian-git.md",
     "Discrete/Oppgaver/Arithmetic/Strings arithmetic.md",
     "Discrete/Oppgaver/Grammar and language",
     "Machine vision/Lectures/first relevant lecture.md",
@@ -191,7 +208,6 @@
     "Machine vision/Lectures/first relevant lecture.mdt1P4Q4.bck",
     "Machine vision/Images",
     "Machine vision/Lectures",
-    "Machine vision",
     "Discrete/Forelesninger/Grammar.md",
     "test.cpp.md",
     "Discrete/Oppgaver/Arithmetic/Least.md",
