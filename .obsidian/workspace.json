@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.5
   },
   "right": {
     "id": "512185cad5cfc50e",
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a253d8704b7ac87b",
+  "active": "dae13d634de4f223",
   "lastOpenFiles": [
     "Discrete/Innleveringer/Assignment 3.md",
     "Machine vision/Project/Ideas.md",
