@@ -42,3 +42,5 @@ Then we can use [inductiive](Discrete/Oppgaver/Principles/Induction) proof ???:
 
 This proves the id(n) = n
 
+
+![[Pasted image 20241112224428.png]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Induction"
+              "title": "Recursion"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Induction"
+              "title": "Backlinks for Recursion"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Induction"
+              "title": "Outgoing links from Recursion"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/Principles/Induction.md"
+                "file": "Discrete/Oppgaver/Principles/Recursion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Induction"
+              "title": "Outline of Recursion"
             }
           },
           {
@@ -175,6 +175,8 @@
   },
   "active": "724f637d5ee333df",
   "lastOpenFiles": [
+    "Pasted image 20241112224428.png",
+    "Discrete/Oppgaver/Principles/Induction.md",
     "Discrete/Images/Pasted image 20241015225902.png",
     "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
     "Discrete/Images/Pasted image 20241015235934.png",
@@ -189,7 +191,6 @@
     "Discrete/Oppgaver/DFA, NFA, regex/what.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
     "Discrete/Oppgaver/Principles/Recursion.md",
-    "Discrete/Oppgaver/Principles/Induction.md",
     "Machine vision/Project/Ideas.md",
     "Machine vision/Lectures/first relevant lecture.md",
     "Discrete/Oppgaver/DFA, NFA, regex/Untitled",
