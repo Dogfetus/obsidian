@@ -11,10 +11,14 @@
             "id": "724f637d5ee333df",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Discrete/Images/Pasted image 20241015225902.png"
-              }
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Induction"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Images/Pasted image 20241015225902.png",
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Induction"
             }
           },
           {
@@ -100,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Images/Pasted image 20241015225902.png",
+                "file": "Discrete/Oppgaver/Principles/Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Induction"
             }
           },
           {
@@ -114,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Images/Pasted image 20241015225902.png"
-              }
+                "file": "Discrete/Oppgaver/Principles/Induction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Induction"
             }
           },
           {
@@ -132,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -153,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dae13d634de4f223",
+  "active": "724f637d5ee333df",
   "lastOpenFiles": [
+    "Discrete/Images/Pasted image 20241015225902.png",
     "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
     "Discrete/Images/Pasted image 20241015235934.png",
     "Discrete/Images/Pasted image 20241015235020.png",
     "Discrete/Images/Pasted image 20241015234527.png",
     "Discrete/Images/Pasted image 20241015234319.png",
-    "Discrete/Images/Pasted image 20241015225902.png",
     "Discrete/Images/Pasted image 20241015225028.png",
     "Discrete/Images/Pasted image 20241015223519.png",
     "Discrete/Images/Pasted image 20241015224032.png",
