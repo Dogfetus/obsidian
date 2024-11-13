@@ -53,3 +53,4 @@ This proves the id(n) = n
 ![[Pasted image 20241112231851.png]]
 >>>>>>> origin/main
 
+![[Pasted image 20241113124911.png]]
