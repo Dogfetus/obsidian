@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 200
   },
   "right": {
     "id": "512185cad5cfc50e",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md"
+                "file": "Discrete/Oppgaver/Principles/Recursion.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "6c3889adbb89f794",
   "lastOpenFiles": [
+    "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
     "conflict-files-obsidian-git.md",
     "Machine vision/Project/Ideas.md",
     "Discrete/Oppgaver/DFA, NFA, regex/what.md",
-    "Discrete/Oppgaver/DFA, NFA, regex/Regex quantifiers (nb! the tasks in this file are not correct in the images).md",
     "Discrete/Oppgaver/DFA, NFA, regex",
     "Discrete/Innleveringer/Assignment 4.md",
     "Discrete/Images/Pasted image 20241015235934.png",

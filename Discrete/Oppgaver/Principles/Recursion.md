@@ -42,3 +42,6 @@ Then we can use [inductiive](Discrete/Oppgaver/Principles/Induction) proof ???:
 
 This proves the id(n) = n
 
+
+
+
