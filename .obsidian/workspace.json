@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8bd36fd7aae2f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Discrete/Oppgaver/Principles/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Discrete/Oppgaver/Principles/Recursion.md"
               }
             }
           },
@@ -180,10 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8bd36fd7aae2f12",
+  "active": "6c3889adbb89f794",
   "lastOpenFiles": [
-    "Discrete/Oppgaver/Principles/Recursion.md",
     "conflict-files-obsidian-git.md",
+    "Discrete/Oppgaver/Principles/Recursion.md",
     "Pasted image 20241112231851.png",
     "Pasted image 20241112231433.png",
     "Pasted image 20241112224428.png",
