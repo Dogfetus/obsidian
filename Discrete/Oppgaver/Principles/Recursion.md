@@ -43,14 +43,11 @@ Then we can use [inductiive](Discrete/Oppgaver/Principles/Induction) proof ???:
 This proves the id(n) = n
 
 
-<<<<<<< HEAD
-
-=======
 ![[Pasted image 20241112224428.png]]
 
 ![[Pasted image 20241112231433.png]]
 
 ![[Pasted image 20241112231851.png]]
->>>>>>> origin/main
+
 
 ![[Pasted image 20241113124911.png]]
