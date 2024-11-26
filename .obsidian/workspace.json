@@ -25,12 +25,14 @@
             "id": "60dbc23e6d8aa693",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "Discrete/Innleveringer/Assignment 3.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "Assignment 3"
             }
           }
         ],
@@ -188,6 +190,7 @@
   },
   "active": "60dbc23e6d8aa693",
   "lastOpenFiles": [
+    "Discrete/Innleveringer/Assignment 4.md",
     "Pasted image 20241112231851.png",
     "Pasted image 20241112231433.png",
     "conflict-files-obsidian-git.md",
@@ -202,13 +205,11 @@
     "Discrete/Images/Pasted image 20241015234319.png",
     "Discrete/Images/Pasted image 20241015225028.png",
     "Discrete/Images/Pasted image 20241015223519.png",
-    "Discrete/Images/Pasted image 20241015224032.png",
     "Discrete/Oppgaver/DFA, NFA, regex/what.md",
     "Discrete/Oppgaver/Grammar and language/Grammar.md",
     "Machine vision/Project/Ideas.md",
     "Machine vision/Lectures/first relevant lecture.md",
     "Discrete/Oppgaver/DFA, NFA, regex/Untitled",
-    "Discrete/Innleveringer/Assignment 4.md",
     "Discrete/Oppgaver/DFA, NFA, regex",
     "Discrete/Innleveringer/Assignment 3.md",
     "Machine vision/Project",
